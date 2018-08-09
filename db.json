@@ -1,14 +1,14 @@
 {
 	"barChartData": { 
 		"series":[
-          {"values":[76,23,15,85,13]}  
+          {"values":[10,23,35,47,60]}  
 		]
 	},
 	"pieChartData": { 
 		"series":[
-		  {"values":[15]}, 
-		  {"values":[30]}, 
-		  {"values":[34]}
+		  {"values":[25]}, 
+		  {"values":[33]}, 
+		  {"values":[60]}
 		]
 	}
 }
