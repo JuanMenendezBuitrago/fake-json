@@ -5,8 +5,10 @@
 		]
 	},
 	"pieChartData": { 
-		"value-box":{
-			"text": "%v"
+		"plot":{
+			"value-box":{
+				"text": "%v"
+			}
 		},
 		"series":[
 		  {"values":[25]}, 
